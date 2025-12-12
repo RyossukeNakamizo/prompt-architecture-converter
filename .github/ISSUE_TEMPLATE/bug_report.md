@@ -12,7 +12,7 @@ A clear and concise description of the bug.
 
 ## Environment
 
-- **Model used**: (e.g., Claude Sonnet 4, GPT-4o)
+- **Model used**: (e.g., Claude Sonnet 4, GPT-5)
 - **Platform**: (e.g., Claude Projects, API, Custom implementation)
 - **Framework version**: v0.1.0-experimental
 
